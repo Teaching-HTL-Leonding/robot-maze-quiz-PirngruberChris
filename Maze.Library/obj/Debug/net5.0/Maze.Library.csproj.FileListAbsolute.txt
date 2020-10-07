@@ -1,0 +1,12 @@
+C:\Users\User\Source\Repos\robot-maze-quiz-PirngruberChris\Maze.Library\bin\Debug\net5.0\Maze.Library.deps.json
+C:\Users\User\Source\Repos\robot-maze-quiz-PirngruberChris\Maze.Library\bin\Debug\net5.0\Maze.Library.dll
+C:\Users\User\Source\Repos\robot-maze-quiz-PirngruberChris\Maze.Library\bin\Debug\net5.0\ref\Maze.Library.dll
+C:\Users\User\Source\Repos\robot-maze-quiz-PirngruberChris\Maze.Library\bin\Debug\net5.0\Maze.Library.pdb
+C:\Users\User\Source\Repos\robot-maze-quiz-PirngruberChris\Maze.Library\obj\Debug\net5.0\Maze.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Source\Repos\robot-maze-quiz-PirngruberChris\Maze.Library\obj\Debug\net5.0\Maze.Library.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\robot-maze-quiz-PirngruberChris\Maze.Library\obj\Debug\net5.0\Maze.Library.AssemblyInfo.cs
+C:\Users\User\Source\Repos\robot-maze-quiz-PirngruberChris\Maze.Library\obj\Debug\net5.0\Maze.Library.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\robot-maze-quiz-PirngruberChris\Maze.Library\obj\Debug\net5.0\Maze.Library.dll
+C:\Users\User\Source\Repos\robot-maze-quiz-PirngruberChris\Maze.Library\obj\Debug\net5.0\ref\Maze.Library.dll
+C:\Users\User\Source\Repos\robot-maze-quiz-PirngruberChris\Maze.Library\obj\Debug\net5.0\Maze.Library.pdb
+C:\Users\User\source\repos\robot-maze-quiz-PirngruberChris\Maze.Library\obj\Debug\net5.0\Maze.Library.csprojAssemblyReference.cache
